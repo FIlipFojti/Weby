@@ -1,0 +1,43 @@
+📘 Docházkový systém pro střední školu
+Tento projekt je webová aplikace určená pro evidenci docházky žáků na střední škole.
+Učitelé, administrátoři a žáci mají každý vlastní přístup a rozdílné funkce v systému.
+
+🚀 Funkce
+Přihlášení uživatelů
+Administrátor: správa uživatelů, tříd a přístupů
+Učitel: zadávání docházky, správa přítomnosti žáků
+Žák: náhled vlastní docházky
+
+Docházkový list
+Přehled přítomnosti žáků v jednotlivých hodinách
+Označení absence, omluvené i neomluvené hodiny
+Databáze MySQL
+Správa žáků, učitelů, tříd a docházky
+Bezpečné ukládání přístupových údajů
+
+Responzivní design díky frameworku Bootstrap
+Moderní vzhled a přehledné rozhraní
+
+🛠 Použité technologie
+Frontend: HTML, CSS, Bootstrap, JavaScript
+Backend: PHP
+Databáze: MySQL
+Provoz: interní školní server
+
+🔑 Přístupové role
+Administrátor
+správa uživatelů (učitelé, žáci, třídy)
+přidávání/odebírání účtů
+správa přístupových práv
+
+Učitel
+zadávání docházky žáků
+kontrola přehledů a statistik docházky
+
+Žák
+přístup k vlastní docházce
+
+🔒 Poznámka
+Projekt je určen pro interní použití školy a není veřejně dostupný na internetu.
+
+přehled zameškaných hodin
